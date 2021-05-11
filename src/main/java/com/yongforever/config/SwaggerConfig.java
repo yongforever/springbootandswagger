@@ -31,4 +31,4 @@ public class SwaggerConfig {
 }
 
 // 注意："com.imooc.product.controller" 指的是你的controller包路径
-// 默认访问地址 http://localhost:9001/swagger-.html
+// 默认访问地址 http://localhost:9001/swagger-ui.html
